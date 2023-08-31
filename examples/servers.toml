@@ -1,7 +1,0 @@
-[server.A]
-Ipaddr = "192.168.4.1"
-"Port no" = 4476
-
-[server.B]
-Ipaddr = "192.168.4.8"
-"Port no" = 1234
