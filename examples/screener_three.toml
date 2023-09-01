@@ -1,0 +1,18 @@
+balls = 5
+bricks = 250
+
+[cars.car2]
+color = "red"
+speed = 10
+
+[cars.car1]
+color = "green"
+speed = 3
+
+[trucks.truck2]
+load = 25
+hp = 800
+
+[trucks.truck1]
+load = 15
+hp = 670
