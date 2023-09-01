@@ -1,13 +1,13 @@
 balls = 5
 bricks = 250
 
-[cars.car2]
-color = "red"
-speed = 10
-
 [cars.car1]
 color = "green"
 speed = 3
+
+[cars.car2]
+color = "red"
+speed = 10
 
 [trucks.truck1]
 load = 15
